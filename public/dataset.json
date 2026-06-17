@@ -4,9 +4,12 @@
       "id": "clip_001",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts", "edge_blur"],
+      "clues": [
+        "facial_artifacts",
+        "edge_blur"
+      ],
       "explanation": {
         "en": "The subject displays an unnatural blink rate and significant blurring around the hairline under rapid motion.",
         "ar": "تظهر الشخصية معدل رمش غير طبيعي وضبابية كبيرة حول خط الشعر أثناء الحركة السريعة."
@@ -17,7 +20,7 @@
       "id": "clip_002",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -30,9 +33,12 @@
       "id": "clip_003",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
-      "clues": ["background", "edge_blur"],
+      "clues": [
+        "background",
+        "edge_blur"
+      ],
       "explanation": {
         "en": "Watch the background warp when the subject moves. This ghosting indicates face-swapping alignment errors.",
         "ar": "راقب تشوه الخلفية عند حركة الشخصية. يشير هذا التداخل البصري إلى أخطاء محاذاة في تبديل الوجوه."
@@ -43,7 +49,7 @@
       "id": "clip_004",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/bunny/trailer.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -56,9 +62,12 @@
       "id": "clip_005",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=300&q=80",
-      "clues": ["audio_sync", "facial_artifacts"],
+      "clues": [
+        "audio_sync",
+        "facial_artifacts"
+      ],
       "explanation": {
         "en": "The speaker's mouth movements freeze intermittently while speech audio continues, revealing generative timing errors.",
         "ar": "تتوقف حركات فم المتحدث بشكل متقطع بينما يستمر الصوت، مما يكشف عن أخطاء في التوقيت التوليدي."
@@ -69,7 +78,7 @@
       "id": "clip_006",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/video/movie_300.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -82,9 +91,11 @@
       "id": "clip_006b",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1554151228-14d9def656e4?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts"],
+      "clues": [
+        "facial_artifacts"
+      ],
       "explanation": {
         "en": "The cheek area exhibits synthetic pixels jittering when the speaker talks, showing low-resolution mesh blends.",
         "ar": "تظهر منطقة الخد اهتزازاً في البكسلات الاصطناعية عند حديث المتحدث، مما يوضح دمج شبكي منخفض الدقة."
@@ -95,7 +106,7 @@
       "id": "clip_006c",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -108,9 +119,11 @@
       "id": "clip_006d",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
-      "clues": ["edge_blur"],
+      "clues": [
+        "edge_blur"
+      ],
       "explanation": {
         "en": "Flickering fringes are visible around the ears when the actor tilts their head, indicating blending boundary seam failure.",
         "ar": "تظهر حواف مهتزة حول الأذنين عند إمالة الممثل لرأسه، مما يدل على فشل خط الدمج لشبكة التوليد."
@@ -121,7 +134,7 @@
       "id": "clip_006e",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -134,9 +147,12 @@
       "id": "clip_007",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
-      "clues": ["lighting", "edge_blur"],
+      "clues": [
+        "lighting",
+        "edge_blur"
+      ],
       "explanation": {
         "en": "Note the mismatched shadow angles on the cheeks compared to the key light source on the left wall.",
         "ar": "لاحظ تفاوت زوايا الظل على الخدين مقارنة بمصدر الضوء الرئيسي الموجود على الجدار الأيسر."
@@ -147,7 +163,7 @@
       "id": "clip_008",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -160,9 +176,12 @@
       "id": "clip_009",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts", "audio_sync"],
+      "clues": [
+        "facial_artifacts",
+        "audio_sync"
+      ],
       "explanation": {
         "en": "A subtle face-swapped clip. Notice how the teeth remain blurred and static while pronouncing sibilant consonants.",
         "ar": "مقطع معدل بتبديل الوجه بشكل خفيف. لاحظ كيف تبدو الأسنان ضبابية وثابتة أثناء نطق الحروف الصفيرية."
@@ -173,7 +192,7 @@
       "id": "clip_010",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -186,9 +205,12 @@
       "id": "clip_011",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/bunny/trailer.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=300&q=80",
-      "clues": ["edge_blur", "background"],
+      "clues": [
+        "edge_blur",
+        "background"
+      ],
       "explanation": {
         "en": "The hair strands lack fine detail, blending into a soft halo shape typical of neural network rendering filters.",
         "ar": "تفتقر خصلات الشعر إلى التفاصيل الدقيقة، وتندمج في هالة ضبابية ناعمة شائعة في مرشحات معالجة الشبكة العصبية."
@@ -199,7 +221,7 @@
       "id": "clip_012",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -212,9 +234,11 @@
       "id": "clip_012b",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/video/movie_300.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
-      "clues": ["lighting"],
+      "clues": [
+        "lighting"
+      ],
       "explanation": {
         "en": "The shadow cast by the nose is static and does not deform realistically when the head tilts laterally.",
         "ar": "الظل الساقط من الأنف ثابت ولا يتغير بشكل واقعي عند إمالة الرأس جانباً."
@@ -225,7 +249,7 @@
       "id": "clip_012c",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -238,9 +262,11 @@
       "id": "clip_012d",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts"],
+      "clues": [
+        "facial_artifacts"
+      ],
       "explanation": {
         "en": "Subtle ghosting templates appear in the cheek pores under rapid expression changes, typical of face swap models.",
         "ar": "تظهر قوالب تداخل باهتة في مسام الوجنتين عند تغير التعبيرات السريعة، وهو أمر شائع في نماذج تبديل الوجه."
@@ -251,7 +277,7 @@
       "id": "clip_012e",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -264,9 +290,12 @@
       "id": "clip_013",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/video/movie_300.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts", "lighting"],
+      "clues": [
+        "facial_artifacts",
+        "lighting"
+      ],
       "explanation": {
         "en": "High-fidelity deepfake. Check the light reflections in the pupils: they fail to align with the surrounding lighting fixtures.",
         "ar": "تزييف عميق عالي الدقة. تحقق من انعكاسات الضوء في حدقة العين: فهي تفشل في محاذاة مصادر الإضاءة المحيطة."
@@ -277,7 +306,7 @@
       "id": "clip_014",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -290,9 +319,12 @@
       "id": "clip_015",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80",
-      "clues": ["audio_sync", "edge_blur"],
+      "clues": [
+        "audio_sync",
+        "edge_blur"
+      ],
       "explanation": {
         "en": "Generative speech model test. The lip corners remain unnaturally rigid during plosive speech articulation.",
         "ar": "اختبار نموذج كلام توليدي. تظل زوايا الشفاه متيبسة بشكل غير طبيعي أثناء نطق الحروف الشديدة (الإنفجارية)."
@@ -303,7 +335,7 @@
       "id": "clip_016",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -316,9 +348,12 @@
       "id": "clip_017",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
-      "clues": ["background", "edge_blur"],
+      "clues": [
+        "background",
+        "edge_blur"
+      ],
       "explanation": {
         "en": "The borders between the ears and background warping indicate a face mask composition layering failure.",
         "ar": "تشير الحدود بين الأذنين وتشوه الخلفية إلى فشل في طبقات دمج قناع الوجه التوليدي."
@@ -329,7 +364,7 @@
       "id": "clip_018",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/bunny/trailer.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -342,9 +377,12 @@
       "id": "clip_019",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts", "lighting"],
+      "clues": [
+        "facial_artifacts",
+        "lighting"
+      ],
       "explanation": {
         "en": "A deepfake presenting asymmetric glasses frame shapes and subtle micro-shadow jittering around the cheeks.",
         "ar": "تزييف عميق يظهر أشكال إطار نظارات غير متماثلة واهتزازاً خفيفاً للظلال الدقيقة حول الوجنتين."
@@ -355,7 +393,7 @@
       "id": "clip_020",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/video/movie_300.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534751516642-a131ffd473fd?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -368,9 +406,12 @@
       "id": "clip_021",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
-      "clues": ["facial_artifacts", "audio_sync"],
+      "clues": [
+        "facial_artifacts",
+        "audio_sync"
+      ],
       "explanation": {
         "en": "Subtle edge flickering is visible around the dynamic cheek line, combined with micro-expression delays.",
         "ar": "يظهر اهتزاز طفيف في الحواف حول خط الخد الديناميكي، مترافقاً مع تأخر في التعبيرات الدقيقة للوجه."
@@ -381,7 +422,7 @@
       "id": "clip_022",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
