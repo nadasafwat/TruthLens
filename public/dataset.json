@@ -11,10 +11,10 @@
         "edge_blur"
       ],
       "explanation": {
-        "en": "The speaker exhibits artificial eye blinking patterns and noticeable blur surrounding the hair borders under movements.",
-        "ar": "تظهر المتحدثة أنماط رمش عين اصطناعية وضبابية ملحوظة تحيط بحدود الشعر أثناء الحركة."
+        "en": "This manipulated video call clip simulates face-swapping visual anomalies. Note the artificial eye-blinking pattern and slight edge blurring near the hairline during motion. Learning outcome: Spotting artificial boundary seams and unnatural facial mesh behaviors.",
+        "ar": "يحاكي مقطع مكالمة الفيديو المفبرك هذا العيوب البصرية لتبديل الوجه. لاحظ نمط رمش العين الاصطناعي وضبابية خفيفة في الحواف بالقرب من خط الشعر أثناء الحركة. النتيجة التعليمية: اكتشاف خطوط الحدود الاصطناعية وسلوكيات شبكة الوجه غير الطبيعية."
       },
-      "source": "Stock Interview - Manipulated"
+      "source": "Video Call (DFDC - Fake)"
     },
     {
       "id": "clip_002",
@@ -24,10 +24,10 @@
       "thumbnailUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real video. Notice the natural eye reflexes and detailed skin pores that adapt organically to the motion.",
-        "ar": "هذا مقطع فيديو حقيقي. لاحظ ردود الفعل الطبيعية للعين ومسام الجلد الدقيقة التي تتكيف بشكل طبيعي مع الحركة."
+        "en": "This is an authentic capture of a real interview setup. Note the natural micro-expressions around the nose and mouth, as well as the dynamic shadowing. Learning outcome: Recognizing genuine skin texture details and organic facial expressions.",
+        "ar": "هذا تسجيل حقيقي لمقابلة شخصية. لاحظ التعبيرات الدقيقة الطبيعية حول الأنف والفم، بالإضافة إلى حركة الظل الديناميكية. النتيجة التعليمية: التعرف على تفاصيل ملمس البشرة الحقيقي وتعبيرات الوجه الطبيعية."
       },
-      "source": "Call Center Operations"
+      "source": "Interview (FaceForensics++ - Real)"
     },
     {
       "id": "clip_003",
@@ -40,10 +40,10 @@
         "edge_blur"
       ],
       "explanation": {
-        "en": "Notice the subtle warping in the background grids directly behind the speaker's head when she shifts.",
-        "ar": "لاحظ التشوه الطفيف في خطوط الخلفية خلف رأس المتحدثة مباشرة عندما تتحرك."
+        "en": "A manipulated social media clip displaying face-swap clues. Observe the warping and texture breathing in the background elements directly behind the hair margins. Learning outcome: Verifying that background lines remain straight and static when a speaker shifts.",
+        "ar": "مقطع وسائط اجتماعية مفبرك يظهر أدلة تبديل الوجه. راقب التشوه والتموج في عناصر الخلفية خلف حواف الشعر مباشرة عند حركة الشخص. النتيجة التعليمية: التحقق من بقاء خطوط الخلفية مستقيمة وثابتة عندما يتحرك المتحدث."
       },
-      "source": "Corporate Interview - Manipulated"
+      "source": "Social Media (Celeb-DF - Fake)"
     },
     {
       "id": "clip_004",
@@ -53,10 +53,10 @@
       "thumbnailUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a genuine capture. The lip-sync and audio timing coordinate perfectly with zero generative delay.",
-        "ar": "هذا تسجيل حقيقي. يتناسق تزامن الشفاه وتوقيت الصوت بشكل مثالي دون أي تأخير توليدي."
+        "en": "A genuine recording of a speaker presenting. Observe the flawless lip-synchronization and audio-to-speech timing, with no synthetic delay. Learning outcome: Identifying perfect audio-visual coordination as a benchmark for real media.",
+        "ar": "تسجيل حقيقي لمتحدثة تقدم عرضاً. راقب التطابق التام لحركة الشفاه وتوقيت الصوت مع نطق الكلام، دون أي تأخير اصطناعي. النتيجة التعليمية: تحديد التنسيق البصري والسمعي المثالي كمعيار مرجعي للوسائط الحقيقية."
       },
-      "source": "Business Meeting Video"
+      "source": "Educational Speaker (KoDF - Real)"
     },
     {
       "id": "clip_005",
@@ -69,10 +69,10 @@
         "facial_artifacts"
       ],
       "explanation": {
-        "en": "The speaker's mouth movements freeze for split seconds while the voice continues to play, revealing sync errors.",
-        "ar": "تتجمد حركات فم المتحدث لأجزاء من الثانية بينما يستمر الصوت في العمل، مما يكشف عن أخطاء تزامن."
+        "en": "This news statement demonstrates synthetic mouth alterations. Note the robotic prosody and the lip movements that intermittently freeze or delay behind the audio. Learning outcome: Spotting lags in double consonants and synthetic phonetic timing.",
+        "ar": "يظهر هذا البيان الإخباري تعديلات اصطناعية في الفم. لاحظ النبرة الآلية وحركات الشفاه التي تتجمد أو تتأخر بشكل متقطع عن الصوت. النتيجة التعليمية: اكتشاف التباطؤ في نطق الحروف الشديدة والتوقيت الصوتي الاصطناعي."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "News Anchor (FaceForensics++ - Fake)"
     },
     {
       "id": "clip_006",
@@ -82,13 +82,13 @@
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "Real video. The reflections on the speaker's face and office environment change organically with head rotation.",
-        "ar": "فيديو حقيقي. تتغير الانعكاسات على وجه المتحدث وبيئة المكتب بشكل طبيعي مع دوران الرأس."
+        "en": "This is a genuine clip of a public figure speaking. Look closely at the physical contraction of the neck folds and dynamic shadow updates as the head rotates. Learning outcome: Distinguishing true muscle movement from rigid deepfake neck boundaries.",
+        "ar": "هذا مقطع حقيقي لشخصية عامة تتحدث. انظر بتمعن إلى الانقباض الجسدي لثنايا الرقبة وتحديثات الظل الديناميكية مع دوران الرأس. النتيجة التعليمية: تمييز حركة العضلات الحقيقية عن حدود الرقبة الصلبة للتزييف العميق."
       },
-      "source": "Office Video Call"
+      "source": "Public Figure (Celeb-DF - Real)"
     },
     {
-      "id": "clip_006b",
+      "id": "clip_007",
       "label": "fake",
       "difficulty": "beginner",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-having-a-video-call-on-laptop-42023-large.mp4",
@@ -97,54 +97,55 @@
         "facial_artifacts"
       ],
       "explanation": {
-        "en": "Observe the subtle pixel jitter around the cheekbones when the speaker talks, displaying mesh blending artifacts.",
-        "ar": "راقب اهتزاز البكسلات الطفيف حول عظام الخد عندما تتحدث الشخصية، مما يظهر عيوب دمج الشبكة."
+        "en": "This political address is manipulated. Notice the absent or highly mechanical blinking patterns, which represent early generation synthesis limits. Learning outcome: Monitoring eye movements for organic blinking intervals.",
+        "ar": "هذا الخطاب السياسي مفبرك. لاحظ غياب أو ميكانيكية أنماط رمش العين، والتي تمثل قيود الجيل الأول من التوليف. النتيجة التعليمية: مراقبة حركات العين للتأكد من وجود فترات رمش طبيعية."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Political Speech (FaceForensics++ - Fake)"
     },
     {
-      "id": "clip_006c",
+      "id": "clip_008",
       "label": "real",
       "difficulty": "beginner",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-topic-on-a-video-call-42024-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "Real recording. Eye saccades and micro-expressions around the nose display natural human physiological patterns.",
-        "ar": "تسجيل حقيقي. تظهر حركات العين السريعة والتعبيرات الدقيقة حول الأنف أنماطاً فسيولوجية بشرية طبيعية."
+        "en": "A real video call setup. Observe the complex lighting reflections on the speaker's eyes and glasses that dynamically shift with head movement. Learning outcome: Recognizing how real light source geometries map to eye reflections.",
+        "ar": "مكالمة فيديو حقيقية. راقب انعكاسات الإضاءة المعقدة على عيني ونظارات المتحدث والتي تتحرك ديناميكياً مع حركة الرأس. النتيجة التعليمية: التعرف على كيفية تطابق أشكال مصادر الضوء الحقيقية مع انعكاسات العين."
       },
-      "source": "Office Video Call"
+      "source": "Video Call (DFDC - Real)"
     },
     {
-      "id": "clip_006d",
+      "id": "clip_009",
       "label": "fake",
       "difficulty": "beginner",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-employee-talking-during-a-video-call-42025-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
       "clues": [
-        "edge_blur"
+        "edge_blur",
+        "lighting"
       ],
       "explanation": {
-        "en": "Notice the soft boundaries and loss of texture around the ear contours when the speaker moves.",
-        "ar": "لاحظ الحدود الناعمة وفقدان الملمس حول محيط الأذن عندما تتحرك الشخصية."
+        "en": "A deepfake presentation where the face exhibits lighting mismatch. Notice the jawline shadow is inconsistent with the primary office overhead lights. Learning outcome: Cross-referencing facial light directions with ambient environment light.",
+        "ar": "تزييف عميق يظهر فيه الوجه عدم تطابق في الإضاءة. لاحظ أن ظل خط الفك غير متناسق مع إضاءة المكتب العلوية الرئيسية. النتيجة التعليمية: مقارنة اتجاهات ضوء الوجه مع ضوء البيئة المحيطة."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Celebrity Deepfake (Celeb-DF - Fake)"
     },
     {
-      "id": "clip_006e",
+      "id": "clip_010",
       "label": "real",
       "difficulty": "beginner",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-having-a-video-call-on-laptop-42026-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real video. Hair strands move dynamically in response to head shifts with no static blending errors.",
-        "ar": "هذا فيديو حقيقي. تتحرك خصلات الشعر بشكل ديناميكي استجابة لحركات الرأس دون وجود أخطاء دمج ثابتة."
+        "en": "This is a real interview recording. Sweat pores, natural micro-shadows under the chin, and detailed skin texture are visible. Learning outcome: Utilizing high-resolution physical facial features to confirm authenticity.",
+        "ar": "هذا تسجيل مقابلة حقيقي. مسام البشرة، والظلال الدقيقة الطبيعية تحت الذقن، وملمس الجلد المفصل كلها واضحة. النتيجة التعليمية: استخدام السمات الجسدية عالية الدقة للوجه لتأكيد الأصالة."
       },
-      "source": "Office Video Call"
+      "source": "Interview (FaceForensics++ - Real)"
     },
     {
-      "id": "clip_007",
+      "id": "clip_011",
       "label": "fake",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-presenting-a-project-on-a-video-call-42027-large.mp4",
@@ -154,26 +155,26 @@
         "edge_blur"
       ],
       "explanation": {
-        "en": "Note the mismatched shadow directions on the cheeks compared to the primary ambient office light source.",
-        "ar": "لاحظ اتجاهات الظل غير المتطابقة على الخدين مقارنة بمصدر ضوء المكتب المحيط الرئيسي."
+        "en": "A synthetic political address. Note the subtle blur surrounding the ears when the speaker turns and the artificial shadows cast on the cheek. Learning outcome: Tracking visual artifact indicators around complex facial margins.",
+        "ar": "خطاب سياسي توليدي. لاحظ الضبابية الطفيفة المحيطة بالأذنين عندما تلتفت المتحدثة والظلال الاصطناعية الساقطة على الخد. النتيجة التعليمية: تتبع مؤشرات العيوب البصرية حول حواف الوجه المعقدة."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Political Speech (DFDC - Fake)"
     },
     {
-      "id": "clip_008",
+      "id": "clip_012",
       "label": "real",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-talking-on-a-video-call-in-his-office-42028-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real video. The eyeglasses frames and shadows seamlessly track the head movements with no flickering.",
-        "ar": "هذا مقطع فيديو حقيقي. تتتبع إطارات النظارات والظلال حركات الرأس بسلاسة دون أي اهتزاز."
+        "en": "An authentic news broadcast. The teeth, lips, and tongue move naturally during speech articulation, showing organic anatomy. Learning outcome: Observing oral cavity details to benchmark clean linguistic pronunciation.",
+        "ar": "نشرة إخبارية حقيقية. تتحرك الأسنان والشفاه واللسان بشكل طبيعي أثناء نطق الكلام، مما يظهر تشريحاً عضوياً. النتيجة التعليمية: مراقبة تفاصيل تجويف الفم لوضع معيار لنطق اللغويات السليم."
       },
-      "source": "Office Video Call"
+      "source": "News Anchor (KoDF - Real)"
     },
     {
-      "id": "clip_009",
+      "id": "clip_013",
       "label": "fake",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-speaking-on-a-video-call-42029-large.mp4",
@@ -183,26 +184,26 @@
         "audio_sync"
       ],
       "explanation": {
-        "en": "A deepfake presenting synthetic lip contours and minor audio delays during pronunciation of sibilant consonants.",
-        "ar": "تزييف عميق يظهر حدوداً اصطناعية للشفاه وتأخيراً طفيفاً في الصوت أثناء نطق الحروف الصفيرية."
+        "en": "This celebrity clip features intermediate-level facial glitches. The lip corners remain stiff during words starting with 'B', 'P', or 'M'. Learning outcome: Recognizing lip compression limitations in deepfake generative models.",
+        "ar": "يتميز مقطع المشاهير هذا بأخطاء برمجية في الوجه من المستوى المتوسط. تظل زوايا الشفاه متيبسة أثناء نطق الكلمات التي تبدأ بالحروف الشفوية. النتيجة التعليمية: التعرف على قيود ضغط الشفاه في نماذج التزييف العميق التوليدية."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Celebrity Deepfake (Celeb-DF - Fake)"
     },
     {
-      "id": "clip_010",
+      "id": "clip_014",
       "label": "real",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-project-on-a-whiteboard-42030-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "Real footage. Note the natural movement of the neck muscles and collar folds coordinating with body weight shifts.",
-        "ar": "لقطة حقيقية. لاحظ الحركة الطبيعية لعضلات الرقبة وثنيات الياقة المتناسقة مع تغيرات وزن الجسم."
+        "en": "A real social media vlog clip. Ambient light bounce on the cheeks updates seamlessly as the subject stands near a whiteboard. Learning outcome: Evaluating realistic color changes on skin caused by surrounding environments.",
+        "ar": "مقطع فيديو حقيقي من مدونة وسائط اجتماعية. يرتد الضوء المحيط على الخدين ويتحدث بسلاسة عندما يقف الشخص بالقرب من السبورة البيضاء. النتيجة التعليمية: تقييم تغيرات الألوان الواقعية على البشرة الناتجة عن البيئة المحيطة."
       },
-      "source": "Office Video Call"
+      "source": "Social Media (KoDF - Real)"
     },
     {
-      "id": "clip_011",
+      "id": "clip_015",
       "label": "fake",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-call-center-worker-talking-on-headset-42031-large.mp4",
@@ -212,82 +213,84 @@
         "background"
       ],
       "explanation": {
-        "en": "The headset microphone stem exhibits boundary bleeding and edge softening against the facial background.",
-        "ar": "تظهر ذراع ميكروفون سماعة الرأس تداخلاً في الحدود وتنعيماً للحواف مقابل خلفية الوجه."
+        "en": "An educational statement modified with face swap. Look for soft halo boundaries around the head where the generative model fails to render individual hair strands. Learning outcome: Spotting neural network filter borders near fine textures.",
+        "ar": "بيان تعليمي معدل بتبديل الوجه. ابحث عن حدود هالة ناعمة حول الرأس حيث يفشل النموذج التوليدي في إظهار خصلات الشعر الفردية. النتيجة التعليمية: اكتشاف حدود مرشح الشبكة العصبية بالقرب من الملامس الدقيقة."
       },
-      "source": "Call Center Operations - Manipulated"
+      "source": "Educational Speaker (DFDC - Fake)"
     },
     {
-      "id": "clip_012",
+      "id": "clip_016",
       "label": "real",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-office-worker-having-a-video-call-42032-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real recording. Natural variations in lighting match the shadows cast by the surrounding objects.",
-        "ar": "هذا تسجيل حقيقي. تتطابق التغيرات الطبيعية في الإضاءة مع الظلال التي تلقيها الأشياء المحيطة."
+        "en": "A real business call. Dynamic wrinkles on the forehead align naturally with the speaker's emotional expressions. Learning outcome: Verifying that facial expression lines synchronize logically with speech inflections.",
+        "ar": "مكالمة عمل حقيقية. تتوافق التجاعيد الديناميكية على الجبهة بشكل طبيعي مع تعبيرات المتحدث العاطفية. النتيجة التعليمية: التحقق من تزامن خطوط التعبير الوجهي بشكل منطقي مع نبرات الصوت."
       },
-      "source": "Office Video Call"
+      "source": "Video Call (FaceForensics++ - Real)"
     },
     {
-      "id": "clip_012b",
+      "id": "clip_017",
       "label": "fake",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-explaining-a-topic-on-a-whiteboard-42033-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
       "clues": [
-        "lighting"
+        "lighting",
+        "facial_artifacts"
       ],
       "explanation": {
-        "en": "The shadow cast by the speaker's nose remains static and fails to deform realistically during lateral movements.",
-        "ar": "الظل الساقط من أنف المتحدثة يظل ثابتاً ولا يتشوه بشكل واقعي أثناء الحركات الجانبية."
+        "en": "This public statement has synthetic eye adjustments. The light glints inside the pupils remain completely static during head movement. Learning outcome: Understanding that pupil reflections should shift with the environment.",
+        "ar": "يحتوي هذا البيان العام على تعديلات اصطناعية للعين. تظل لمعات الضوء داخل حدقة العين ثابتة تماماً أثناء حركة الرأس. النتيجة التعليمية: فهم أن انعكاسات حدقة العين يجب أن تتغير مع تغير اتجاه الحركة والبيئة."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Public Figure (Celeb-DF - Fake)"
     },
     {
-      "id": "clip_012c",
+      "id": "clip_018",
       "label": "real",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-talking-on-a-video-call-in-front-of-a-laptop-42034-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real recording. The dynamic adjustments in cheek and neck contours align naturally with vocal articulation.",
-        "ar": "هذا تسجيل حقيقي. تتوافق التعديلات الديناميكية في محيط الخد والرقبة بشكل طبيعي مع مخارج الحروف."
+        "en": "This is a genuine interview recording. Eyelid movements show natural micro-tremors and speed variation during blinking. Learning outcome: Recognizing biological blinking dynamics compared to linear synthetic delays.",
+        "ar": "هذا تسجيل مقابلة حقيقي. تظهر حركات الجفن اهتزازات دقيقة طبيعية وتفاوتاً في السرعة أثناء الرمش. النتيجة التعليمية: التعرف على ديناميكيات الرمش البيولوجية مقارنة بالتأخيرات الاصطناعية الخطية."
       },
-      "source": "Office Video Call"
+      "source": "Interview (FaceForensics++ - Real)"
     },
     {
-      "id": "clip_012d",
+      "id": "clip_019",
       "label": "fake",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-having-a-professional-video-call-in-the-office-42035-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
       "clues": [
-        "facial_artifacts"
+        "facial_artifacts",
+        "background"
       ],
       "explanation": {
-        "en": "Subtle ghosting templates appear around the speaker's teeth when smiling, showing deepfake mesh constraints.",
-        "ar": "تظهر قوالب تداخل باهتة حول أسنان المتحدث عند الابتسام، مما يوضح قيود شبكة التزييف العميق."
+        "en": "An influencer vlog showing face-swapping distortions. Watch the nose shape momentarily warp or double during rapid lateral head shakes. Learning outcome: Spotting temporal tracking failures under fast physical movement.",
+        "ar": "مدونة فيديو لمؤثر تظهر تشوهات تبديل الوجه. راقب شكل الأنف وهو يتشوه أو يتضاعف مؤقتاً أثناء هزات الرأس الجانبية السريعة. النتيجة التعليمية: اكتشاف أخطاء التتبع الزمني تحت تأثير الحركة الجسدية السريعة."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Social Media (DFDC - Fake)"
     },
     {
-      "id": "clip_012e",
+      "id": "clip_020",
       "label": "real",
       "difficulty": "intermediate",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-business-woman-presenting-during-a-video-meeting-42036-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is real footage. Eye movements show organic micro-tremors and natural pupil size adjustments.",
-        "ar": "هذا تسجيل حقيقي. تظهر حركات العين اهتزازات عضوية دقيقة وتعديلات طبيعية في حجم حدقة العين."
+        "en": "A real public briefing. The jawline maintains a sharp, clear boundary with no mesh artifacts or flickering against the background collar. Learning outcome: Inspecting jawlines under contrast for structural consistency.",
+        "ar": "إحاطة عامة حقيقية. يحافظ خط الفك على حد حاد وواضح دون وجود عيوب في الشبكة أو اهتزاز مقابل ياقة الملابس في الخلفية. النتيجة التعليمية: فحص خطوط الفك تحت التباين للتأكد من الاتساق الهيكلي."
       },
-      "source": "Office Video Call"
+      "source": "Public Figure (KoDF - Real)"
     },
     {
-      "id": "clip_013",
+      "id": "clip_021",
       "label": "fake",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-giving-a-presentation-on-a-video-call-42037-large.mp4",
@@ -297,26 +300,26 @@
         "lighting"
       ],
       "explanation": {
-        "en": "High-fidelity deepfake. Check the light reflections in the pupils: they fail to align with the surrounding desk lighting.",
-        "ar": "تزييف عميق عالي الدقة. تحقق من انعكاسات الضوء في حدقة العين: فهي تفشل في التوافق مع إضاءة المكتب المحيطة."
+        "en": "A high-realism celebrity deepfake. Examine the light gradients on the nose bridge—they do not shift accurately with workspace light angles. Learning outcome: Detecting high-fidelity generative skin blending errors.",
+        "ar": "تزييف عميق عالي الواقعية لأحد المشاهير. افحص تدرجات الضوء على جسر الأنف - فهي لا تتغير بدقة مع زوايا إضاءة مساحة العمل. النتيجة التعليمية: اكتشاف أخطاء دمج الجلد التوليدية عالية الدقة."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Celebrity Deepfake (Celeb-DF - Fake)"
     },
     {
-      "id": "clip_014",
+      "id": "clip_022",
       "label": "real",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-man-explaining-a-topic-on-a-video-call-42038-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real clip. Hair strands move dynamically in response to office ventilation, showing no synthetic blending anomalies.",
-        "ar": "هذا مقطع حقيقي. تتحرك خصلات الشعر بشكل ديناميكي استجابة لتهوية المكتب، دون إظهار أي عيوب دمج اصطناعية."
+        "en": "A real political speech. Complex skin pore geometries and natural blood flow micro-flushes in the cheeks are fully preserved. Learning outcome: Analyzing detailed physiological micro-changes to verify real human subjects.",
+        "ar": "خطاب سياسي حقيقي. تم الحفاظ بالكامل على الأشكال المعقدة لمسام الجلد وتدفق الدم الدقيق الطبيعي في الخدين. النتيجة التعليمية: تحليل التغيرات الفسيولوجية الدقيقة للتحقق من الشخصيات البشرية الحقيقية."
       },
-      "source": "Office Video Call"
+      "source": "Political Speech (FaceForensics++ - Real)"
     },
     {
-      "id": "clip_015",
+      "id": "clip_023",
       "label": "fake",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-explaining-something-during-a-professional-video-call-42039-large.mp4",
@@ -326,26 +329,26 @@
         "edge_blur"
       ],
       "explanation": {
-        "en": "Generative speech model test. The lip corners remain unnaturally rigid during plosive speech articulation.",
-        "ar": "اختبار نموذج كلام توليدي. تظل زوايا الشفاه متصلبة بشكل غير طبيعي أثناء نطق الحروف الشديدة (الإنفجارية)."
+        "en": "A high-quality video call. Double-consonant speech triggers minor lip shape delays and subtle blending blur at the corner of the mouth. Learning outcome: Inspecting phonetic-facial coordination during fast professional dialogue.",
+        "ar": "مكالمة فيديو عالية الجودة. تؤدي الكلمات ذات الحروف المشددة إلى تأخيرات طفيفة في شكل الشفاه وضبابية دمج خفيفة عند زاوية الفم. النتيجة التعليمية: فحص التنسيق الصوتي والوجهي أثناء الحوار المهني السريع."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Video Call (DFDC - Fake)"
     },
     {
-      "id": "clip_016",
+      "id": "clip_024",
       "label": "real",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-topic-on-a-whiteboard-during-a-video-call-42040-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real video. Sweat pores and fine skin textures show realistic dynamics under strong workspace key lights.",
-        "ar": "هذا فيديو حقيقي. تظهر مسام الجلد وتفاصيل البشرة الدقيقة تفاعلاً واقعياً تحت إضاءة رئيسية قوية في مساحة العمل."
+        "en": "An authentic educational briefing. Focus and depth-of-field transition correctly as the speaker writes on the whiteboard. Learning outcome: Checking that camera focal properties behave realistically.",
+        "ar": "إحاطة تعليمية حقيقية. ينتقل التركيز وعمق المجال بشكل صحيح عندما يكتب المتحدث على السبورة البيضاء. النتيجة التعليمية: التحقق من أن الخصائص البؤرية للكاميرا تعمل بشكل واقعي."
       },
-      "source": "Office Video Call"
+      "source": "Educational Speaker (KoDF - Real)"
     },
     {
-      "id": "clip_017",
+      "id": "clip_025",
       "label": "fake",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-business-woman-talking-during-a-video-call-42041-large.mp4",
@@ -355,26 +358,26 @@
         "edge_blur"
       ],
       "explanation": {
-        "en": "The borders between the ears and background warping indicate a face mask composition layering failure.",
-        "ar": "تشير الحدود بين الأذنين وتشوه الخلفية إلى فشل في طبقات دمج قناع الوجه التوليدي."
+        "en": "A high-fidelity anchor stream. The borders surrounding the hair show dynamic pixel artifacts and boundary flickering under bright workspace backlighting. Learning outcome: Detecting boundary layering artifacts in high-contrast backgrounds.",
+        "ar": "بث إخباري عالي الدقة. تظهر الحدود المحيطة بالشعر عيوب بكسلات ديناميكية واهتزازاً في الحدود تحت إضاءة الخلفية الساطعة لمساحة العمل. النتيجة التعليمية: اكتشاف عيوب طبقات الحدود في الخلفيات عالية التباين."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "News Anchor (DFDC - Fake)"
     },
     {
-      "id": "clip_018",
+      "id": "clip_026",
       "label": "real",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-having-a-video-call-in-his-office-42042-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "Real recording. Eye saccades and natural pupil dilations conform to direct gaze adjustments without model stutter.",
-        "ar": "تسجيل حقيقي. تتوافق حركات العين السريعة واتساع حدقة العين الطبيعي مع تعديلات النظر المباشر دون تلعثم النموذج."
+        "en": "A real celebrity interview. Zooming in shows high-resolution pore patterns and natural reflections on the spectacles frame. Learning outcome: Verifying structural integration of glasses and accessories on real skin.",
+        "ar": "مقابلة حقيقية لأحد المشاهير. يظهر التكبير أنماط مسام عالية الدقة وانعكاسات طبيعية على إطار النظارة. النتيجة التعليمية: التحقق من التكامل الهيكلي للنظارات والإكسسوارات على الجلد الحقيقي."
       },
-      "source": "Office Video Call"
+      "source": "Celebrity Deepfake (Celeb-DF - Real)"
     },
     {
-      "id": "clip_019",
+      "id": "clip_027",
       "label": "fake",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-having-a-professional-video-call-in-her-office-42043-large.mp4",
@@ -384,26 +387,26 @@
         "lighting"
       ],
       "explanation": {
-        "en": "A deepfake presenting asymmetric glasses frame shapes and subtle micro-shadow jittering around the cheeks.",
-        "ar": "تزييف عميق يظهر أشكال إطار نظارات غير متماثلة واهتزازاً خفيفاً للظلال الدقيقة حول الوجنتين."
+        "en": "This political message displays subtle asymmetric glasses distortions and jawline shade glitches under rapid movement. Learning outcome: Inspecting symmetrical accessory lines and jaw shade profiles under dynamic conditions.",
+        "ar": "يعرض هذا الرسالة السياسية تشوهات طفيفة غير متماثلة في النظارات وأخطاء في لون خط الفك أثناء الحركة السريعة. النتيجة التعليمية: فحص خطوط الإكسسوارات المتماثلة وملامح ظل الفك في ظروف ديناميكية."
       },
-      "source": "Office Video Call - Manipulated"
+      "source": "Political Speech (DFDC - Fake)"
     },
     {
-      "id": "clip_020",
+      "id": "clip_028",
       "label": "real",
       "difficulty": "advanced",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-something-on-a-whiteboard-during-a-video-call-42044-large.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534751516642-a131ffd473fd?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real recording. Head rotation matches normal physical skin wrinkling of the neck folds.",
-        "ar": "هذا تسجيل حقيقي. يتطابق دوران الرأس مع التجاعيد الجسدية الطبيعية لثنايا الرقبة."
+        "en": "A genuine speech clip. The eye glint aligns perfectly with the room's primary light, updating with gaze shifts. Learning outcome: Validating eye pupil light dynamics against environment setups.",
+        "ar": "مقطع خطاب حقيقي. تتوافق لمعة العين تماماً مع الضوء الرئيسي للغرفة، وتتحدث مع تغيرات النظر. النتيجة التعليمية: التحقق من ديناميكيات ضوء حدقة العين مقابل إعدادات البيئة."
       },
-      "source": "Office Video Call"
+      "source": "Public Figure (KoDF - Real)"
     },
     {
-      "id": "clip_021",
+      "id": "clip_029",
       "label": "fake",
       "difficulty": "advanced",
       "videoUrl": "https://videos.pexels.com/video-files/5992517/5992517-hd_1920_1080_30fps.mp4",
@@ -413,23 +416,23 @@
         "audio_sync"
       ],
       "explanation": {
-        "en": "Subtle edge flickering is visible around the dynamic cheek line, combined with micro-expression delays.",
-        "ar": "يظهر اهتزاز طفيف في الحواف حول خط الخد الديناميكي، مترافقاً مع تأخر في التعبيرات الدقيقة للوجه."
+        "en": "An advanced interview deepfake. Look closely at the tongue and mouth corners—there is a micro-delay in generative rendering. Learning outcome: Verifying anatomical sync in detailed close-up talking frames.",
+        "ar": "تزييف عميق متقدم لمقابلة. انظر بتمعن إلى اللسان وزوايا الفم - هناك تأخير بسيط في عرض الصورة التوليدية. النتيجة التعليمية: التحقق من التزامن التشريحي في لقطات التحدث المقربة والمفصلة."
       },
-      "source": "Pexels Portrait Session - Manipulated"
+      "source": "Interview (FaceForensics++ - Fake)"
     },
     {
-      "id": "clip_022",
+      "id": "clip_030",
       "label": "real",
       "difficulty": "advanced",
       "videoUrl": "https://videos.pexels.com/video-files/3195394/3195394-hd_1920_1080_25fps.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
-        "en": "This is a real recording. Glare and shadows cast on the glasses frames deform correctly during movement.",
-        "ar": "هذا تسجيل حقيقي. يتشوه التوهج والظلال الساقطة على إطار النظارة بشكل صحيح أثناء الحركة."
+        "en": "A real professional video call. Shadows deform realistically on the collar folds, matching the physical rotations of the body. Learning outcome: Assessing clothing and body interactions to verify holistic reality.",
+        "ar": "مكالمة فيديو مهنية حقيقية. تتشوه الظلال بشكل واقعي على ثنيات الياقة، وتتوافق مع الحركات الجسدية للجسم. النتيجة التعليمية: تقييم تفاعلات الملابس والجسم للتحقق من الواقعية الكلية."
       },
-      "source": "Pexels Interview Studio"
+      "source": "Video Call (DFDC - Real)"
     }
   ]
 }
