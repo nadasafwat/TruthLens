@@ -1,0 +1,99 @@
+{
+  "common": {
+    "title": "TruthLens",
+    "tagline": "See Beyond the Screen",
+    "verify": "Verify",
+    "learn_more": "Learn More",
+    "next": "Next",
+    "play_again": "Play Again",
+    "streak": "Streak",
+    "level": "Level",
+    "xp": "XP",
+    "loading": "Loading...",
+    "error": "Error",
+    "menu": {
+      "home": "Home",
+      "train": "Train",
+      "learn": "Learn",
+      "profile": "Profile"
+    }
+  },
+  "landing": {
+    "hero_title": "Can You Spot the AI Lie?",
+    "hero_desc": "TruthLens is an interactive training ground. Learn to identify AI-generated Deepfakes from real media, level up, and build your digital immunity against misinformation.",
+    "cta_start": "Start Training",
+    "how_it_works": "How It Works",
+    "step1_title": "1. Watch the Clip",
+    "step1_desc": "Analyze a short video clip. Look closely at expressions, lighting, and sync.",
+    "step2_title": "2. Make Your Choice",
+    "step2_desc": "Decide within 10 seconds: Is it Real or is it Fake?",
+    "step3_title": "3. Learn the Clues",
+    "step3_desc": "Get instant feedback and learn the anatomical visual clues of manipulation."
+  },
+  "setup": {
+    "title": "Select Difficulty",
+    "desc": "Choose your training level. Higher difficulties offer more XP but require finer detail spotting.",
+    "username_placeholder": "Enter your username (optional)",
+    "beginner_title": "Beginner",
+    "beginner_desc": "Clear visual artifacts. Slow movements. Perfect for starting out.",
+    "intermediate_title": "Intermediate",
+    "intermediate_desc": "Subtle manipulation, natural speech. Requires level 2.",
+    "advanced_title": "Advanced",
+    "advanced_desc": "High-fidelity generation. Professional blends. Requires level 3.",
+    "launch_game": "Launch Game",
+    "locked_label": "Unlocks at Level {level} ({xp} XP)"
+  },
+  "play": {
+    "question": "Is this video real or fake?",
+    "btn_real": "Real",
+    "btn_fake": "Fake",
+    "sec_left": "{seconds}s left",
+    "speed_bonus": "Speed Bonus!",
+    "correct": "Correct!",
+    "incorrect": "Incorrect!",
+    "no_time": "Time's Up!",
+    "clues_title": "Detection Clues Found:",
+    "next_btn": "Next Challenge",
+    "press_key_hint": "Press 1 for Real | 2 for Fake | Space/Enter for Next"
+  },
+  "summary": {
+    "completed_title": "Training Set Completed!",
+    "completed_desc": "Great work completing your training rounds. Check your performance metrics below:",
+    "accuracy": "Accuracy",
+    "score": "Final Score",
+    "xp_gained": "XP Gained",
+    "badges_earned": "Badges Earned",
+    "no_badges": "No new badges unlocked this set.",
+    "play_again": "Play Again",
+    "review_clues": "Review Clues",
+    "unlocked_badge_title": "New Badge Unlocked!"
+  },
+  "learn": {
+    "title": "Education Hub",
+    "desc": "Master media literacy and understand the visual cues that expose manipulated synthetic media.",
+    "gan_basics": "Understanding Deepfakes (GANs)",
+    "gan_desc": "Generative Adversarial Networks (GANs) pit two AI models against each other: a Generator (which builds fake images) and a Discriminator (which detects fakes). Over millions of iterations, they produce hyper-realistic faces.",
+    "techniques": "Face-Swapping & Manipulation",
+    "techniques_desc": "Face-swapping overlays a source face onto a target actor. While highly advanced, it often leaves discrepancies around hair margins, eye reflections, and audio synchronizations.",
+    "five_sec_check": "The 5-Second Detection Checklist",
+    "checklist_desc": "Follow these rapid steps to verify media content in your daily feed:",
+    "checklist_item1": "Analyze Blinking: Deepfakes often display abnormal, mechanical, or completely absent blinking.",
+    "checklist_item2": "Inspect Edges: Check for soft, blurry, or flickering outlines around the ears, jawline, and hair.",
+    "checklist_item3": "Verify Speech Sync: Do lip movements match the phonetic audio sync of double consonants?",
+    "checklist_item4": "Assess Lighting: Check if eye glints align correctly and if cheek shadows match light sources.",
+    "checklist_item5": "Check Backgrounds: Look for ghosting, warping, or background texture breathing behind the face.",
+    "download_card": "Download Reference Card"
+  },
+  "profile": {
+    "title": "User Progress",
+    "desc": "Monitor your training level status, active answer streaks, and milestone credentials.",
+    "username": "Username",
+    "streak": "Current Streak",
+    "level_rank": "Level & Rank",
+    "badges": "Badge Cabinet",
+    "no_badges_desc": "Start training to earn badges! Available milestones are listed in the gallery.",
+    "download_share": "Download Share Card",
+    "download_cert": "Download Certificate",
+    "locked_reward": "Unlocks at Level {level}"
+  }
+}
