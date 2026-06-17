@@ -94,6 +94,14 @@
     "no_badges_desc": "Start training to earn badges! Available milestones are listed in the gallery.",
     "download_share": "Download Share Card",
     "download_cert": "Download Certificate",
-    "locked_reward": "Unlocks at Level {level}"
+    "locked_reward": "Unlocks at Level {level}",
+    "danger_zone": "Danger Zone",
+    "reset_progress": "Reset Progress",
+    "reset_desc": "Permanently delete your training progress, level, XP, achievements, and statistics. This action cannot be undone.",
+    "reset_btn": "Clear My Data",
+    "reset_confirm_title": "Wipe All Progress?",
+    "reset_confirm_desc": "Are you absolutely sure you want to clear your data? This will reset your username, total XP to 0, current level back to 1, and delete all unlocked badges. You will lose your certificate eligibility.",
+    "cancel": "Cancel",
+    "confirm_reset": "Yes, Clear My Data"
   }
 }

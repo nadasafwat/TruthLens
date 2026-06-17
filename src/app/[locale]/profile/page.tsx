@@ -5,7 +5,7 @@ import { useTranslation } from '@/i18n/TranslationContext';
 import { useGameStore } from '@/store/useGameStore';
 import { BADGES, LEVEL_THRESHOLDS } from '@/constants';
 import { motion } from 'framer-motion';
-import { User, Award, Flame, Trophy, Lock, Download } from 'lucide-react';
+import { User, Award, Flame, Trophy, Lock, Download, AlertTriangle } from 'lucide-react';
 import dynamic from 'next/dynamic';
 
 const BadgeDetailsModal = dynamic(() => import('@/components/profile/BadgeDetailsModal'), { ssr: false });
@@ -14,9 +14,16 @@ import { clsx } from 'clsx';
 export default function ProfilePage() {
   const { locale, t } = useTranslation();
 
-  const { username, level, totalXP, currentStreak, badges } = useGameStore();
+  const { username, level, totalXP, currentStreak, badges, resetAllProgress } = useGameStore();
 
   const [activeBadgeModal, setActiveBadgeModal] = useState<string | null>(null);
+  const [showResetModal, setShowResetModal] = useState(false);
+
+  const handleConfirmReset = () => {
+    resetAllProgress();
+    setShowResetModal(false);
+    window.location.reload();
+  };
 
   // Get current and next level info
   const currentLevelInfo = LEVEL_THRESHOLDS.find(l => l.level === level) || LEVEL_THRESHOLDS[0];
@@ -338,6 +345,67 @@ export default function ProfilePage() {
 
         </div>
       </div>
+
+      {/* Danger Zone */}
+      <div className="rounded-xl border border-red-500/20 bg-red-500/5 p-6 flex flex-col gap-4 max-w-lg">
+        <div className="flex flex-col gap-1">
+          <h3 className="text-lg font-bold text-red-400 flex items-center gap-2">
+            <AlertTriangle className="h-5 w-5 text-red-500 animate-pulse" />
+            <span>{t('profile.danger_zone')}</span>
+          </h3>
+          <p className="text-xs text-white/50 leading-relaxed font-sans">
+            {t('profile.reset_desc')}
+          </p>
+        </div>
+        
+        <div>
+          <button
+            onClick={() => setShowResetModal(true)}
+            className="rounded-lg bg-red-600 hover:bg-red-700 text-white font-bold py-2.5 px-4 text-xs transition-all duration-200 select-none shadow-lg shadow-red-600/15 hover:shadow-red-600/30 hover:scale-[1.01]"
+          >
+            {t('profile.reset_btn')}
+          </button>
+        </div>
+      </div>
+
+      {/* Reset Confirmation Modal */}
+      {showResetModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm">
+          <motion.div
+            initial={{ scale: 0.95, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            className="w-full max-w-md rounded-2xl border border-white/10 bg-[#0B132B] p-6 shadow-2xl relative overflow-hidden"
+          >
+            {/* Red top border gradient highlight */}
+            <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-600 to-orange-500" />
+            
+            <h3 className="text-xl font-bold text-white mb-3 flex items-center gap-2">
+              <AlertTriangle className="h-5 w-5 text-red-500" />
+              {t('profile.reset_confirm_title')}
+            </h3>
+            
+            <p className="text-sm text-white/60 leading-relaxed mb-6 font-sans">
+              {t('profile.reset_confirm_desc')}
+            </p>
+            
+            <div className="flex justify-end gap-3">
+              <button
+                onClick={() => setShowResetModal(false)}
+                className="rounded-lg border border-white/10 bg-white/5 hover:bg-white/10 px-4 py-2 text-xs font-bold text-white transition-all duration-200"
+              >
+                {t('profile.cancel')}
+              </button>
+              
+              <button
+                onClick={handleConfirmReset}
+                className="rounded-lg bg-red-600 hover:bg-red-700 px-4 py-2 text-xs font-bold text-white transition-all duration-200 select-none shadow-lg shadow-red-600/20"
+              >
+                {t('profile.confirm_reset')}
+              </button>
+            </div>
+          </motion.div>
+        </div>
+      )}
 
       <BadgeDetailsModal
         isOpen={!!activeBadgeModal}
