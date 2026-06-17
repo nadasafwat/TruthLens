@@ -7,7 +7,7 @@ import { useGameStore } from '@/store/useGameStore';
 import { useSettingsStore } from '@/store/useSettingsStore';
 import { LEVEL_THRESHOLDS } from '@/constants';
 import { motion } from 'framer-motion';
-import { Globe, Volume2, VolumeX, Shield } from 'lucide-react';
+import { Globe, Volume2, VolumeX } from 'lucide-react';
 
 export default function Header() {
   const { locale, t } = useTranslation();
@@ -47,8 +47,12 @@ export default function Header() {
         
         {/* Brand Lockup */}
         <div className="flex items-center gap-2">
-          <div className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-[#00D4FF] to-[#2DD881] p-1 shadow-lg shadow-brand-cyan/20">
-            <Shield className="h-5 w-5 text-[#0B132B]" />
+          <div className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-white p-0.5 shadow-lg shadow-brand-cyan/20 overflow-hidden">
+            <img
+              src="/logo-mark.jpg"
+              alt="TruthLens Logo"
+              className="h-full w-full object-cover rounded-md"
+            />
           </div>
           <span className="hidden text-xl font-bold tracking-wider text-white sm:block">
             {t('common.title')}

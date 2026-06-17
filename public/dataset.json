@@ -4,7 +4,7 @@
       "id": "clip_001",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-business-woman-having-a-phone-call-305-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -20,7 +20,7 @@
       "id": "clip_002",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-people-working-in-a-call-center-22987-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -33,7 +33,7 @@
       "id": "clip_003",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-talking-to-camera-in-interview-40333-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "background",
@@ -49,7 +49,7 @@
       "id": "clip_004",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-explaining-something-during-a-meeting-40334-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -62,7 +62,7 @@
       "id": "clip_005",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-having-a-video-call-on-laptop-in-office-42021-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "audio_sync",
@@ -78,7 +78,7 @@
       "id": "clip_006",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-presenting-a-project-on-a-video-call-42022-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -91,7 +91,7 @@
       "id": "clip_007",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-having-a-video-call-on-laptop-42023-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1554151228-14d9def656e4?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts"
@@ -106,7 +106,7 @@
       "id": "clip_008",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-topic-on-a-video-call-42024-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -119,7 +119,7 @@
       "id": "clip_009",
       "label": "fake",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-employee-talking-during-a-video-call-42025-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "edge_blur",
@@ -135,7 +135,7 @@
       "id": "clip_010",
       "label": "real",
       "difficulty": "beginner",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-woman-having-a-video-call-on-laptop-42026-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -148,7 +148,7 @@
       "id": "clip_011",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-presenting-a-project-on-a-video-call-42027-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "lighting",
@@ -164,7 +164,7 @@
       "id": "clip_012",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-talking-on-a-video-call-in-his-office-42028-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -177,7 +177,7 @@
       "id": "clip_013",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-speaking-on-a-video-call-42029-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -193,7 +193,7 @@
       "id": "clip_014",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-project-on-a-whiteboard-42030-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -206,7 +206,7 @@
       "id": "clip_015",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-call-center-worker-talking-on-headset-42031-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "edge_blur",
@@ -222,12 +222,12 @@
       "id": "clip_016",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-office-worker-having-a-video-call-42032-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
         "en": "A real business call. Dynamic wrinkles on the forehead align naturally with the speaker's emotional expressions. Learning outcome: Verifying that facial expression lines synchronize logically with speech inflections.",
-        "ar": "مكالمة عمل حقيقية. تتوافق التجاعيد الديناميكية على الجبهة بشكل طبيعي مع تعبيرات المتحدث العاطفية. النتيجة التعليمية: التحقق من تزامن خطوط التعبير الوجهي بشكل منطقي مع نبرات الصوت."
+        "ar": "مكالمة عمل حقيقية. تتوافق التجاعيد الديناميكية على الجبهة بشكل طبيعي مع تعبيرات المتحدث العاطفية. النتيجة التعليمية: التحقق من تزامن خطوط التعبير الوجهي بشكل منطعي مع نبرات الصوت."
       },
       "source": "Video Call (FaceForensics++ - Real)"
     },
@@ -235,7 +235,7 @@
       "id": "clip_017",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-explaining-a-topic-on-a-whiteboard-42033-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "lighting",
@@ -251,7 +251,7 @@
       "id": "clip_018",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-talking-on-a-video-call-in-front-of-a-laptop-42034-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -264,7 +264,7 @@
       "id": "clip_019",
       "label": "fake",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-having-a-professional-video-call-in-the-office-42035-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -280,7 +280,7 @@
       "id": "clip_020",
       "label": "real",
       "difficulty": "intermediate",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-business-woman-presenting-during-a-video-meeting-42036-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -293,7 +293,7 @@
       "id": "clip_021",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-giving-a-presentation-on-a-video-call-42037-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -309,7 +309,7 @@
       "id": "clip_022",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-young-man-explaining-a-topic-on-a-video-call-42038-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -322,7 +322,7 @@
       "id": "clip_023",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-explaining-something-during-a-professional-video-call-42039-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "audio_sync",
@@ -338,7 +338,7 @@
       "id": "clip_024",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-a-topic-on-a-whiteboard-during-a-video-call-42040-large.mp4",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -351,7 +351,7 @@
       "id": "clip_025",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-business-woman-talking-during-a-video-call-42041-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "background",
@@ -367,7 +367,7 @@
       "id": "clip_026",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-having-a-video-call-in-his-office-42042-large.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
@@ -380,7 +380,7 @@
       "id": "clip_027",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-having-a-professional-video-call-in-her-office-42043-large.mp4",
+      "videoUrl": "https://vjs.zencdn.net/v/oceans.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -396,8 +396,8 @@
       "id": "clip_028",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-man-explaining-something-on-a-whiteboard-during-a-video-call-42044-large.mp4",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1534751516642-a131ffd473fd?auto=format&fit=crop&w=300&q=80",
+      "videoUrl": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {
         "en": "A genuine speech clip. The eye glint aligns perfectly with the room's primary light, updating with gaze shifts. Learning outcome: Validating eye pupil light dynamics against environment setups.",
@@ -409,7 +409,7 @@
       "id": "clip_029",
       "label": "fake",
       "difficulty": "advanced",
-      "videoUrl": "https://videos.pexels.com/video-files/5992517/5992517-hd_1920_1080_30fps.mp4",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
       "clues": [
         "facial_artifacts",
@@ -425,7 +425,7 @@
       "id": "clip_030",
       "label": "real",
       "difficulty": "advanced",
-      "videoUrl": "https://videos.pexels.com/video-files/3195394/3195394-hd_1920_1080_25fps.mp4",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
       "clues": [],
       "explanation": {

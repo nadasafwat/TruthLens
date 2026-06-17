@@ -100,23 +100,26 @@ export default function LandingPage() {
                 className="animate-pulse-scale"
                 style={{ transformOrigin: '100px 100px' }}
               >
-                <circle cx="100" cy="100" r="50" fill="rgba(11, 19, 43, 0.75)" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-                <path
-                  d="M90 100 L97 107 L112 92"
-                  stroke="#2DD881"
-                  strokeWidth="6"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  fill="none"
+                <circle cx="100" cy="100" r="50" fill="#ffffff" stroke="url(#lensGrad)" strokeWidth="2" />
+                <image
+                  href="/logo-mark.jpg"
+                  x="52"
+                  y="52"
+                  height="96"
+                  width="96"
+                  clipPath="url(#circleClip)"
                 />
               </g>
 
-              {/* Definitions for Gradient */}
+              {/* Definitions for Gradient and ClipPath */}
               <defs>
                 <linearGradient id="lensGrad" x1="0%" y1="0%" x2="100%" y2="100%">
                   <stop offset="0%" stopColor="#00D4FF" />
                   <stop offset="100%" stopColor="#2DD881" />
                 </linearGradient>
+                <clipPath id="circleClip">
+                  <circle cx="100" cy="100" r="45" />
+                </clipPath>
               </defs>
             </svg>
           </div>
