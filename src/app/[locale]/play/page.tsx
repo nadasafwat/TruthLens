@@ -61,7 +61,9 @@ export default function PlayPage() {
     
     // Auto play video
     if (videoRef.current) {
-      videoRef.current.currentTime = 0;
+      const match = activeClip.videoUrl.match(/#t=(\d+)/);
+      const startTime = match ? parseInt(match[1], 10) : 0;
+      videoRef.current.currentTime = startTime;
       videoRef.current.play().catch(err => console.log('Autoplay play error:', err));
     }
 
